@@ -317,11 +317,11 @@ const App = () => {
 
               <a
                 style={{ paddingLeft: "50%" }}
-                href="https://motasimfoad.com"
+                href="https://ahsanmkhan.vercel.app/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                (C) Motasim Foad
+                (C) Ahsan Khan
               </a>
             </div>
             <Toast

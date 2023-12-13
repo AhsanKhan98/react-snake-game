@@ -1,8 +1,8 @@
 # react-snake-game
 
-Simple web version of classic snake game using ReactJS, Bootstrap, Firebase
+Simple web version of classic snake game using ReactJS, Bootstrap, LocalStorage,
 
-Live Demo : https://snake.motasimfoad.com
+Live Demo : https://snake-game-b58c2vdfy-ahsankhan98.vercel.app/
 
 Snake logic was built following this tutorial : https://www.youtube.com/c/weibenfalk
 

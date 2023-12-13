@@ -20,7 +20,6 @@ function useScore() {
     // })
 
     setScore(newScore);
-    // console.log(newScore)
   }, [newScore]);
   return score.slice(0, 7);
 }
