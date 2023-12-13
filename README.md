@@ -9,7 +9,7 @@ Snake logic was built following this tutorial : https://www.youtube.com/c/weiben
 
 Development files are under "dev" branch.
 
-Have any queries? https://motasimfoad.com/contact
+Have any queries? https://ahsanmkhan.vercel.app/
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
